@@ -12,5 +12,5 @@
 | **Среда & IDE**   | <img src="https://skillicons.dev/icons?i=robloxstudio,visualstudio,vscode,idea" title="Roblox Studio, Visual Studio, VS Code, IntelliJ IDEA" />                                        |
 | **Языки**         | <img src="https://skillicons.dev/icons?i=java,kotlin" title="Java, Kotlin" />                                                                                                         |
 | **Веб & JS**      | <img src="https://skillicons.dev/icons?i=nodejs,electron,react,js,html,css" title="Node.js, Electron, React, JavaScript, HTML, CSS" />                                                |
-| **Платформы**     | <img src="https://skillicons.dev/icons?i=github,discord" title="GitHub, Discord" />                                                                                                   |
+| **Платформы**     | <img src="https://skillicons.dev/icons?i=github,discord,telegram" title="GitHub, Discord, Telegram" />                                                                                |
 | **Прочее**        | <img src="https://skillicons.dev/icons?i=bots" title="Bots" />                                                                                                                        |
