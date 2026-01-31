@@ -4,4 +4,4 @@
 
 <img src="https://count.getloli.com/@ZakharEren?name=ZakharEren&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/zakhareren/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenMC)](https://github.com/zakhareren/github-readme-stats)
